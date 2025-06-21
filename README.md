@@ -38,6 +38,13 @@ pip install telethon
   - **API ID**
   - **API Hash**
 
+
+### 3. **Run The Script**
+
+```bash
+python image_extractor.py
+```
+
 ---
 
 ## 🗂️ Output

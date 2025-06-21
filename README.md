@@ -29,7 +29,7 @@ This tool allows you to **extract and download all images from a public or priva
 pip install telethon
 ```
 
-## 2. Get Telegram API Credentials
+### 2. Get Telegram API Credentials
 
 - Go to [https://my.telegram.org](https://my.telegram.org)
 - Log in with your Telegram number
